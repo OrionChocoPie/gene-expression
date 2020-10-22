@@ -18,3 +18,4 @@ BiocManager::install("preprocessCore")
 install.packages(c("tseries", "outliers", "CLSOCP", "nortest", "quadprog", "zoo", "fields", "fpc", "flexclust", "plyr", "fastcluster", "skmeans", "LICORS"))
 install.packages("C:/Users/nogay/Desktop/gene expression/code/CONORData_1.0.2.tar.gz", repos = NULL, type="source")
 install.packages("C:/Users/nogay/Desktop/gene expression/code/HARMONY.tar.gz", repos = NULL, type="source")
+
